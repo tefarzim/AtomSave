@@ -6,14 +6,20 @@
 
 <div align="center">
 
-![galaxy](img/0001.jpg)  **Overzicht**
+![galaxy](img/0001.jpg)        
+**Overzicht**
 `by Inquesto`
 : Links en notities
 
 ### Deel 1 :
 </div>
-==De volgende tekst wordt als volgt geintepreteerd==
+==De volgende tekst wordt als volgt geintepreteerd==00)
 
 So you can drop in any HTML, sharing button, JavaScript snippet or iFrame you like and it will work on the page just as normal.
+
++=+= G+ 0184
+
+
+C:\X\AtomSave\.git
 
 </body>
